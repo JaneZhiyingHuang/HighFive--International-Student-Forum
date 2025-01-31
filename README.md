@@ -40,7 +40,7 @@ The PostgreSQL database schema consists of the following tables:
 
 
 ## 🎨 Display
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/faeffbda-ebe2-4c12-a1bd-da805962eb56)
 ![image](https://github.com/user-attachments/assets/23ddc68b-275b-44cc-982c-69cba1983a23)
 ![image](https://github.com/user-attachments/assets/f5b4ff00-a88c-47f4-a1b8-bbf94734edbe)
 
