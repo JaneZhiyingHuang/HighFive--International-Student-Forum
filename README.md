@@ -29,8 +29,7 @@ Scrum
 
 
 🎨 UI Design
-![image](https://github.com/user-attachments/assets/f31bea0d-6850-4690-b712-891e5a1b3a27)
-![image](https://github.com/user-attachments/assets/b9cc3e74-7942-4886-97ea-af5492002a41)
+
 
 🚦 Running the Project
 To run the project in your local environment, follow these steps:
