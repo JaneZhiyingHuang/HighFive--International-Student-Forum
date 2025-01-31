@@ -1,4 +1,4 @@
-HighFive! - International Student Forum 🎥
+#HighFive! - International Student Forum 🎥
 📖 Overview
 HighFive! is a social platform designed for international students, providing a space to connect, share experiences, and seek advice. Users can sign up, log in, recover passwords, browse and create posts, save favorites, and engage in meaningful discussions through comments.
 
