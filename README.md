@@ -1,4 +1,4 @@
-# ReelLouge - Movie Application 🎥
+# HighFive! - International Student Forum 🎥
 
 
 ## 📖 Overview
