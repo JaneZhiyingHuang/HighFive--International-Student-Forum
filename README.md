@@ -1,4 +1,4 @@
-# HighFive! - International Student Forum 🎥
+# HighFive! - International Student Forum 🌟
 
 
 ## 📖 Overview
