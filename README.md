@@ -65,7 +65,7 @@ To run the project in your local environment, follow these steps:
     ``` sh
     npm run devStart
     ```
-6. 🌟 Use live server to open index.html ,then view the  running application!
+6. 🌟 Use live server to open index.html and view the running website!
 
 
 
