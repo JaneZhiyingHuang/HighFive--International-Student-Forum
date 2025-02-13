@@ -1,4 +1,4 @@
-# HighFive! - International Student Forum 🌟
+# HighFive! - International Student Forum 🙌
 
 
 ## 📖 Overview
@@ -44,7 +44,9 @@ The PostgreSQL database schema consists of the following tables:
 ![image](https://github.com/user-attachments/assets/9611775f-cdb8-4c10-a1bf-0eeb0762ede2)
 ![image](https://github.com/user-attachments/assets/54b7bfa5-d75a-4143-b98c-1e411c5aeef5)
 ![image](https://github.com/user-attachments/assets/23ddc68b-275b-44cc-982c-69cba1983a23)
+![image](https://github.com/user-attachments/assets/25aff2b4-1e2d-450b-b89c-f1b8c59a1497)
 ![image](https://github.com/user-attachments/assets/f5b4ff00-a88c-47f4-a1b8-bbf94734edbe)
+![image](https://github.com/user-attachments/assets/49d33f1b-5ead-4901-b4b2-0a5144f06634)
 
 
 ## 🚦 Running the Project
@@ -58,26 +60,13 @@ To run the project in your local environment, follow these steps:
     ```sh
     npm install
     ```
-    or 
-    ```sh
-    yarn
-    ```
-3. 🔑 Set up the environment variables required for API keys and database configuration.
+3. 🔑 Set up the environment variables required for database configuration.
 4. 🗄️ Initialize the PostgreSQL database.
 5. 🚀 Run the development server by navigating to the server directory and using 
     ``` sh
     npm run devStart
     ```
-    or 
-    ``` sh
-    yarn dev
-    ```
-   
-6. Run the application using
-    ``` sh
-    npm start
-    ```
-7. Open `http://localhost:3000` to view the application.
+6. 🌟 Use live server to open index.html ,then view the  running application!
 
 
 
